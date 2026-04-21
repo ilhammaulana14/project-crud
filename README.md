@@ -1,4 +1,4 @@
-# 📘 Laravel 12 Simple CRUD Project
+# 📘 Laravel 12 Simple CRUD Project ( Muhammad Ilham Maulana)
 
 ## 📌 Deskripsi
 
